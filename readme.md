@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Preview
+
+[![homepage.png](https://c.imge.to/2019/12/18/vOUOY4.png)](https://imge.to/i/vOUOY4)
+
+
 ## About 
 
 Sistem : manajemenberkas
